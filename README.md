@@ -14,7 +14,7 @@ Neste repositório estão armazenados todos os códigos de exercícios e projeto
 - [x] Python para Data Science: Funções, Pacotes e Pandas Básico
 
 **Avançando em Pandas**
-- [ ] Python Pandas: Tratando e analisando dados
+- [X] Python Pandas: Tratando e analisando dados
 - [ ] Pandas: Formatos diferentes de entrada e saída (IO)
 
 **Visualização de Dados**
