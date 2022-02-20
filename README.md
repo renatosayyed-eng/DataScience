@@ -15,7 +15,7 @@ Neste repositório estão armazenados todos os códigos de exercícios e projeto
 
 **Avançando em Pandas**
 - [X] Python Pandas: Tratando e analisando dados
-- [ ] Pandas: Formatos diferentes de entrada e saída (IO)
+- [X] Pandas: Formatos diferentes de entrada e saída (IO)
 
 **Visualização de Dados**
 - [ ] Data Visualization: Explorando com Seaborn
