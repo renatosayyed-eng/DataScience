@@ -29,8 +29,8 @@ Neste repositório estão armazenados todos os códigos de exercícios e projeto
 
 **Começando com Data Science**
 - [ ] Data Science: Primeiros Passos
-- [ ] Python Pandas: Tratando e analisando dados
-- [ ] Estatística com Python parte 1: Frequências e Medidas
+- [x] Python Pandas: Tratando e analisando dados
+- [x] Estatística com Python parte 1: Frequências e Medidas
 - [ ] Estatística com Python parte 2: Probabilidade e Amostragem
 
 **Modelos de Data Science**
